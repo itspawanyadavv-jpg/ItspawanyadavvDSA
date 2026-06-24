@@ -20,11 +20,11 @@ class Solution {
                 int temp = positive;
 
                if (negative > 0)
-    positive = negative + 1;
-else
-    positive = 0;
+                   positive = negative +1;
+               else
+                positive = 0;
 
-                negative = temp + 1;
+                negative = temp +1;
             }
 
             else {
