@@ -19,7 +19,10 @@ class Solution {
 
                 int temp = positive;
 
-                positive = (negative > 0) ? negative + 1 : 0;
+               if (negative > 0)
+    positive = negative + 1;
+else
+    positive = 0;
 
                 negative = temp + 1;
             }
