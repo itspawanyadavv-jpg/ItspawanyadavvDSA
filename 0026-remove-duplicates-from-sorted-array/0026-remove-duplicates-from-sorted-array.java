@@ -23,7 +23,30 @@ class Solution {
             }
         }
 
+        
+
         // Number of unique elements is last index + 1.
         return i + 1;
     }
 }
+
+//BRUTE FORCE
+
+// public int removeDuplicates(int[] nums) {
+
+//     List<Integer> list = new ArrayList<>();
+
+//     for (int num : nums) {
+
+//         if (list.isEmpty() || list.get(list.size() - 1) != num) {
+//             list.add(num);
+//         }
+//     }
+
+//     for (int i = 0; i < list.size(); i++) {
+//         nums[i] = list.get(i);
+//     }
+
+//     return list.size();
+// }
+
