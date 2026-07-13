@@ -17,7 +17,7 @@ class Solution {
                  nums[i] = nums[insertPos];
                  nums[insertPos] = temp;
 
-                 // Mpove insert pos tot he next positionm 
+                 // Move insert pos tot he next positionm 
                  insertPos++;
             }
         }
