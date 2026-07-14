@@ -7,7 +7,7 @@ class Solution {
         // Step 1: Sort the array
         Arrays.sort(nums);
 
-        // Step 2: Fix one element
+        // Step 2: Fix one elementa
         for (int i = 0; i < nums.length - 2; i++) {
 
             // Skip duplicate first elements
