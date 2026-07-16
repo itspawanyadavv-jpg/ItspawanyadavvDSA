@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2906-construct-product-matrix](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2906-construct-product-matrix) |
 | [3026-maximum-good-subarray-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3026-maximum-good-subarray-sum) |
 ## Matrix
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0018-4sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0977-squares-of-a-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
