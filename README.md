@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Divide and Conquer
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0283-move-zeroes) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
@@ -102,9 +105,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0075-sort-colors) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2161-partition-array-according-to-given-pivot) |
+## Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
