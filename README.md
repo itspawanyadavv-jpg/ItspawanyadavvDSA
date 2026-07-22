@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0704-binary-search) |
 | [0918-maximum-sum-circular-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
