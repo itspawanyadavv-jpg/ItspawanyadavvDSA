@@ -1,30 +1,32 @@
 class Solution {
     public int mySqrt(int x) {
 
-        if (x == 0 || x == 1) {
+        if(x==0 || x ==1){
             return x;
         }
 
         int low = 1;
         int high = x;
-        int ans = 0;
+        int  ans = 0;
 
-        while (low <= high) {
+        while( low <= high){
+            int mid = low + (high - low)/2;
+            long square = (long)mid * mid;
 
-            int mid = low + (high - low) / 2;
-
-            long square = (long) mid * mid;
-
-            if (square == x) {
+            if(square == x){
                 return mid;
-            } else if (square < x) {
+            }else if(square < x){
                 ans = mid;
-                low = mid + 1;
-            } else {
-                high = mid - 1;
-            }
-        }
+                low = mid+1;
 
-        return ans;
+            }else{
+            high = mid -1;
+            }
+
+
+        }
+    return ans;
+
+        
     }
 }
