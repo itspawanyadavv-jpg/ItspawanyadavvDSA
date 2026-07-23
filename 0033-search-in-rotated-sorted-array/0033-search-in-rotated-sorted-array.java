@@ -1,10 +1,42 @@
 class Solution {
     public int search(int[] nums, int target) {
-        for(int i=0;i<nums.length;i++){
-    if(nums[i]==target)
-        return i;
-}
-return -1;
-        
+
+        int low = 0;
+        int high = nums.length - 1;
+
+        while (low <= high) {
+
+            int mid = low + (high - low) / 2;
+
+            // Target found
+            if (nums[mid] == target)
+                return mid;
+
+            // Left half is sorted
+            if (nums[low] <= nums[mid]) {
+
+                // Target lies in left half
+                if (target >= nums[low] && target < nums[mid]) {
+                    high = mid - 1;
+                } else {
+                    // Search right half
+                    low = mid + 1;
+                }
+            }
+
+            // Right half is sorted
+            else {
+
+                // Target lies in right half
+                if (target > nums[mid] && target <= nums[high]) {
+                    low = mid + 1;
+                } else {
+                    // Search left half
+                    high = mid - 1;
+                }
+            }
+        }
+
+        return -1;
     }
 }
