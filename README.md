@@ -163,4 +163,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0069-sqrtx) |
+| [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 <!---LeetCode Topics End-->
