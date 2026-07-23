@@ -15,6 +15,6 @@ class Solution {
             }
         }
 
-        return nums[l];
+        return nums[r];
     }
 }
