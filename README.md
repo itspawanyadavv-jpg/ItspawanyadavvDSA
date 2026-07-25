@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2906-construct-product-matrix) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3026-maximum-good-subarray-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3026-maximum-good-subarray-sum) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Matrix
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0611-valid-triangle-number) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Simulation
 |  |
 | ------- |
@@ -185,4 +188,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0069-sqrtx) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+## Game Theory
+|  |
+| ------- |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 <!---LeetCode Topics End-->
