@@ -19,10 +19,10 @@ class Solution {
         for (int i = 0; i < groups; i++) {
 
             // Add current median
-            answer += nums[index];
+            answer = answer + nums[index];
 
             // Skip one element (the group's largest)
-            index -= 2;
+            index = index - 2;
         }
 
         return answer;
