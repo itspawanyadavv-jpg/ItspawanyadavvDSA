@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2906-construct-product-matrix) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3026-maximum-good-subarray-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3026-maximum-good-subarray-sum) |
+| [3169-count-days-without-meetings](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3169-count-days-without-meetings) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Matrix
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3169-count-days-without-meetings](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3169-count-days-without-meetings) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Simulation
 |  |
