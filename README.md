@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0918-maximum-sum-circular-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [2126-destroying-asteroids](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0075-sort-colors) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
