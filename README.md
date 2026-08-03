@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0300-longest-increasing-subsequence) |
+| [0441-arranging-coins](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0658-find-k-closest-elements) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0441-arranging-coins) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Game Theory
