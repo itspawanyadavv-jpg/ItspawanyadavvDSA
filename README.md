@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2187-minimum-time-to-complete-trips](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2906-construct-product-matrix](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2906-construct-product-matrix) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2187-minimum-time-to-complete-trips](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2187-minimum-time-to-complete-trips) |
 ## Sorting
 |  |
 | ------- |
