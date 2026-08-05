@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0875-koko-eating-bananas) |
 | [0911-online-election](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0911-online-election) |
 | [0918-maximum-sum-circular-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0875-koko-eating-bananas) |
 | [0911-online-election](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0911-online-election) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
