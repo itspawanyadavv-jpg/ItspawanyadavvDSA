@@ -1,38 +1,43 @@
 class Solution {
+
     public int smallestDivisor(int[] nums, int threshold) {
+
         int left = 1;
         int right = 0;
 
-        //Find max element 
-        for(int num : nums){
-            right = Math.max(right , num);
+        // Find maximum element
+        for (int num : nums) {
+            right = Math.max(right, num);
         }
 
-        while(left < right){
+        while (left < right) {
+
             int mid = left + (right - left) / 2;
 
-            if(canDivide(nums , threshold , mid)){
+            if (canDivide(nums, threshold, mid)) {
                 right = mid;
-            }
-            else{
+            } else {
                 left = mid + 1;
             }
         }
+
         return left;
-        
     }
 
-    private boolean canDivide(int[]nums , int threshold, int divisor){
-        int sum = 0;
-        for(int num : nums){
+    private boolean canDivide(int[] nums, int threshold, int divisor) {
 
-            //ceiling division
+        int sum = 0;
+
+        for (int num : nums) {
+
+            // Ceiling division
             sum += (num + divisor - 1) / divisor;
-            if(sum > threshold){
+
+            if (sum > threshold) {
                 return false;
             }
-            
-        } return true;
-   
-}
+        }
+
+        return true;
+    }
 }
