@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2126-destroying-asteroids) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2126-destroying-asteroids](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2187-minimum-time-to-complete-trips) |
