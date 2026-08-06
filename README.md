@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0911-online-election](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0911-online-election) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2187-minimum-time-to-complete-trips) |
 ## Sorting
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
