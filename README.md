@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2187-minimum-time-to-complete-trips) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2906-construct-product-matrix](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2906-construct-product-matrix) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2070-most-beautiful-item-for-each-query](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2187-minimum-time-to-complete-trips) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Sorting
 |  |
 | ------- |
