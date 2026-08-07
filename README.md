@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2906-construct-product-matrix) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3026-maximum-good-subarray-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3026-maximum-good-subarray-sum) |
+| [3048-earliest-second-to-mark-indices-i](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3048-earliest-second-to-mark-indices-i) |
 | [3169-count-days-without-meetings](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3169-count-days-without-meetings) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [3048-earliest-second-to-mark-indices-i](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3048-earliest-second-to-mark-indices-i) |
 ## Sorting
 |  |
 | ------- |
