@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0554-brick-wall](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0692-top-k-frequent-words) |
 | [0911-online-election](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0911-online-election) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0974-subarray-sums-divisible-by-k) |
