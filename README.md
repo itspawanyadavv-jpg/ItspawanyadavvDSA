@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0475-heaters](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0475-heaters) |
+| [0503-next-greater-element-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0554-brick-wall](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0554-brick-wall) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Sliding Window
 |  |
