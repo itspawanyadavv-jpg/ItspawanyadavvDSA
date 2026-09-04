@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0901-online-stock-span](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0901-online-stock-span) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0049-group-anagrams) |
 | [0227-basic-calculator-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0402-remove-k-digits) |
 | [0692-top-k-frequent-words](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
