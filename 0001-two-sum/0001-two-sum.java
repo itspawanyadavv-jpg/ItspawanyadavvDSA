@@ -18,7 +18,7 @@ class Solution {
                 return new int[] { map.get(complement), i };
             }
 
-            // Store the current number and its index
+            // Store the current number and its index  
             map.put(nums[i], i);
         }
 
@@ -26,4 +26,4 @@ class Solution {
         // but this keeps the compiler happy.
         return new int[] {};
     }
-}
+}     
