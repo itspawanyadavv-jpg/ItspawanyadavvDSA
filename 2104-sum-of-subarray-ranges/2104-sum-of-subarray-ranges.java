@@ -1,21 +1,25 @@
+import java.util.*;
+
 class Solution {
+
     public long subArrayRanges(int[] nums) {
         return getSum(nums, true) - getSum(nums, false);
     }
 
     private long getSum(int[] nums, boolean maximum) {
+
         int n = nums.length;
         long sum = 0;
 
-        Stack<Integer> stack = new Stack<>();
+        Deque<Integer> stack = new ArrayDeque<>();
 
         for (int i = 0; i <= n; i++) {
 
             while (!stack.isEmpty() &&
                    (i == n ||
-                   (maximum
-                       ? nums[stack.peek()] < nums[i]
-                       : nums[stack.peek()] > nums[i]))) {
+                    (maximum
+                        ? nums[stack.peek()] < nums[i]
+                        : nums[stack.peek()] > nums[i]))) {
 
                 int mid = stack.pop();
 
@@ -29,7 +33,9 @@ class Solution {
                 sum += (long) nums[mid] * leftCount * rightCount;
             }
 
-            stack.push(i);
+            if (i < n) {
+                stack.push(i);
+            }
         }
 
         return sum;
