@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2187-minimum-time-to-complete-trips) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1472-design-browser-history](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1544-make-the-string-great) |
+| [2104-sum-of-subarray-ranges](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0901-online-stock-span) |
+| [2104-sum-of-subarray-ranges](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Sliding Window
 |  |
 | ------- |
