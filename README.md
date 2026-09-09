@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1856-maximum-subarray-min-product](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1856-maximum-subarray-min-product) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1856-maximum-subarray-min-product](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1856-maximum-subarray-min-product) |
 | [2906-construct-product-matrix](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2906-construct-product-matrix) |
 | [3026-maximum-good-subarray-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3026-maximum-good-subarray-sum) |
 ## Design
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1472-design-browser-history](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1544-make-the-string-great) |
+| [1856-maximum-subarray-min-product](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1856-maximum-subarray-min-product) |
 | [2104-sum-of-subarray-ranges](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1856-maximum-subarray-min-product](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1856-maximum-subarray-min-product) |
 | [2104-sum-of-subarray-ranges](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Sliding Window
 |  |
@@ -356,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0394-decode-string) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1856-maximum-subarray-min-product](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1856-maximum-subarray-min-product) |
 <!---LeetCode Topics End-->
