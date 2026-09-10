@@ -1,37 +1,41 @@
-class Solution {
+class Solution{
+public Node connect(Node root) {
 
-    public Node connect(Node root) {
+    if (root == null) {
+        return null;
+    }
 
-        if (root == null) {
-            return null;
-        }
+    Queue<Node> queue = new LinkedList<>();
+    queue.offer(root);
 
-        Node leftmost = root;
+    while (!queue.isEmpty()) {
 
-        // Move level by level
-        while (leftmost.left != null) {
+        int size = queue.size();
 
-            Node current = leftmost;
+        Node previous = null;
 
-            // Traverse current level using next pointers
-            while (current != null) {
+        for (int i = 0; i < size; i++) {
 
-                // Connect left child to right child
-                current.left.next = current.right;
+            Node current = queue.poll();
 
-                // Connect right child to next parent's left child
-                if (current.next != null) {
-                    current.right.next = current.next.left;
-                }
-
-                // Move to next node in current level
-                current = current.next;
+            if (previous != null) {
+                previous.next = current;
             }
 
-            // Move down to the next level
-            leftmost = leftmost.left;
+            previous = current;
+
+            if (current.left != null) {
+                queue.offer(current.left);
+            }
+
+            if (current.right != null) {
+                queue.offer(current.right);
+            }
         }
 
-        return root;
+        // Last node's next remains null
     }
+
+    return root;
+}
 }
