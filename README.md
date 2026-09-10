@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0404-sum-of-left-leaves) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0404-sum-of-left-leaves) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -346,12 +348,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1472-design-browser-history](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -373,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0404-sum-of-left-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
