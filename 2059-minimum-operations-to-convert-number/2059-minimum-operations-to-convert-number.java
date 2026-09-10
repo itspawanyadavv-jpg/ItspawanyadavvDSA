@@ -1,48 +1,72 @@
+import java.util.*;
+
 class Solution {
+
     public int minimumOperations(int[] nums, int start, int goal) {
-        if(start == goal){
+
+        // If start is already goal, no operation is needed.
+        if (start == goal) {
             return 0;
         }
 
-        boolean[] vis = new boolean[1001];
-        // BFS 
+        // We only need to keep track of states from 0 to 1000.
+        boolean[] visited = new boolean[1001];
 
-        Queue<Integer> q = new LinkedList<>();
+        // BFS queue
+        Queue<Integer> queue = new LinkedList<>();
 
-        q.offer(start);
+        queue.offer(start);
 
-        vis[start] = true;
-        int op = 0;
+        // Mark start as visited
+        visited[start] = true;
 
-        while(!q.isEmpty()){
+        // Number of operations
+        int operations = 0;
 
-            int size = q.size();
-            op++;
+        while (!queue.isEmpty()) {
 
-            for(int i = 0; i < size ; i++){
+            // Number of states at the current BFS level
+            int size = queue.size();
 
-                int curr = q.poll();
+            operations++;
 
-                for(int num : nums){
-                    int[] nV = {
-                        curr + num , curr - num, curr ^ num
+            // Process all states reachable in the current number of operations
+            for (int j = 0; j < size; j++) {
+
+                int current = queue.poll();
+
+                // Try every number in nums
+                for (int num : nums) {
+
+                    // Three possible operations
+                    int[] nextValues = {
+                        current + num,
+                        current - num,
+                        current ^ num
                     };
 
-                    for(int next : nV){
+                    for (int next : nextValues) {
 
-                        if(next == goal){
-                            return op;
+                        // If we reached the goal,
+                        // this is the minimum number of operations.
+                        if (next == goal) {
+                            return operations;
                         }
 
-                        if(next >=0 && next <= 1000 && !vis[next]){
-                            vis[next] = true;
-                            q.offer(next);
+                        // Only values in [0, 1000]
+                        // can be used for further operations.
+                        if (next >= 0 && next <= 1000
+                                && !visited[next]) {
+
+                            visited[next] = true;
+                            queue.offer(next);
                         }
                     }
                 }
             }
         }
-        
-      return -1 ;       
+
+        // Goal cannot be reached.
+        return -1;
     }
 }
