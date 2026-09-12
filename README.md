@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0227-basic-calculator-ii) |
 | [0441-arranging-coins](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0441-arranging-coins) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Game Theory
 |  |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0876-middle-of-the-linked-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
