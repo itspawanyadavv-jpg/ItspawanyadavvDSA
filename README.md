@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0287-find-the-duplicate-number) |
 | [0475-heaters](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0475-heaters) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0227-basic-calculator-ii) |
+| [0234-palindrome-linked-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0503-next-greater-element-ii) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0234-palindrome-linked-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1472-design-browser-history) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0394-decode-string) |
 ## Cartesian Tree
 |  |
