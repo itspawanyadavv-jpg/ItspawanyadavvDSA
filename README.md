@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0148-sort-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1472-design-browser-history) |
