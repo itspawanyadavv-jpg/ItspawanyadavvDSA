@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0069-sqrtx) |
 | [0227-basic-calculator-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0227-basic-calculator-ii) |
+| [0382-linked-list-random-node](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0441-arranging-coins) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1472-design-browser-history) |
@@ -411,4 +413,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0148-sort-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
