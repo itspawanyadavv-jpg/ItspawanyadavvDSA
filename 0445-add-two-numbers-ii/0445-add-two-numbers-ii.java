@@ -1,45 +1,57 @@
-import java.util.*;
-
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        Deque<Integer> s1 = new ArrayDeque<>();
-        Deque<Integer> s2 = new ArrayDeque<>();
-        
+
+        // Stack for digits of first number
+        Stack<Integer> stack1 = new Stack<>();
+
+        // Stack for digits of second number
+        Stack<Integer> stack2 = new Stack<>();
+
+        // Put all digits of l1 into stack1
         while (l1 != null) {
-            s1.push(l1.val);
+            stack1.push(l1.val);
             l1 = l1.next;
         }
+
+        // Put all digits of l2 into stack2
         while (l2 != null) {
-            s2.push(l2.val);
+            stack2.push(l2.val);
             l2 = l2.next;
         }
-        
+
         int carry = 0;
-        ListNode head = null;
-        
-        while (!s1.isEmpty() || !s2.isEmpty() || carry != 0) {
+
+        // Result starts as null
+        ListNode result = null;
+
+        // Process digits from right to left
+        while (!stack1.isEmpty() || !stack2.isEmpty() || carry != 0) {
+
             int total = carry;
-            if (!s1.isEmpty()) total += s1.pop();
-            if (!s2.isEmpty()) total += s2.pop();
-            
+
+            // Get digit from stack1
+            if (!stack1.isEmpty()) {
+                total += stack1.pop();
+            }
+
+            // Get digit from stack2
+            if (!stack2.isEmpty()) {
+                total += stack2.pop();
+            }
+
+            // Calculate carry
             carry = total / 10;
-            int digit = total % 10;
-            
-            ListNode node = new ListNode(digit);
-            node.next = head;
-            head = node;
+
+            // Create new node with current digit
+            ListNode node = new ListNode(total % 10);
+
+            // Insert node at the beginning
+            node.next = result;
+
+            // Update result
+            result = node;
         }
-        
-        return head;
+
+        return result;
     }
 }
