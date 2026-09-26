@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0032-longest-valid-parentheses) |
+| [0143-reorder-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0234-palindrome-linked-list) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0142-linked-list-cycle-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0234-palindrome-linked-list) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0394-decode-string) |
 ## Cartesian Tree
