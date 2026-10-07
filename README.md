@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1871-jump-game-vii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1871-jump-game-vii) |
 ## Heap (Priority Queue)
 |  |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1544-make-the-string-great) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1871-jump-game-vii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1871-jump-game-vii) |
 ## Trie
 |  |
