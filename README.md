@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2126-destroying-asteroids) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1871-jump-game-vii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1871-jump-game-vii) |
+| [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Heap (Priority Queue)
 |  |
