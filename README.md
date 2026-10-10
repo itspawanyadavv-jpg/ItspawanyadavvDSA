@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1856-maximum-subarray-min-product](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1856-maximum-subarray-min-product) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0875-koko-eating-bananas) |
 | [0911-online-election](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0911-online-election) |
 | [1004-max-consecutive-ones-iii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0402-remove-k-digits) |
 | [0692-top-k-frequent-words](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0692-top-k-frequent-words) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1208-get-equal-substrings-within-budget](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
