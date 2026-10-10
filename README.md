@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0875-koko-eating-bananas) |
 | [0911-online-election](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0911-online-election) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1004-max-consecutive-ones-iii) |
