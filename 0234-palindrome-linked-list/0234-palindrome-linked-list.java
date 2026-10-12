@@ -1,7 +1,13 @@
+
 class Solution {
     public boolean isPalindrome(ListNode head) {
 
-        // 1. Find the middle of the linked list.
+        // Edge case: empty list or one node
+        if (head == null || head.next == null) {
+            return true;
+        }
+
+        // Step 1: Find the middle using slow and fast pointers
         ListNode slow = head;
         ListNode fast = head;
 
@@ -10,45 +16,30 @@ class Solution {
             fast = fast.next.next;
         }
 
-        // 2. Reverse the second half.
-        ListNode secondHalf = reverse(slow);
+        // Step 2: Reverse the second half
+        ListNode prev = null;
+        ListNode curr = slow;
 
-        // 3. Compare the first half and reversed second half.
-        ListNode firstHalf = head;
+        while (curr != null) {
+            ListNode nextNode = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = nextNode;
+        }
 
-        while (secondHalf != null) {
+        // Step 3: Compare the first and reversed second halves
+        ListNode first = head;
+        ListNode second = prev;
 
-            if (firstHalf.val != secondHalf.val) {
+        while (second != null) {
+            if (first.val != second.val) {
                 return false;
             }
 
-            firstHalf = firstHalf.next;
-            secondHalf = secondHalf.next;
+            first = first.next;
+            second = second.next;
         }
 
         return true;
-    }
-
-    private ListNode reverse(ListNode head) {
-
-        ListNode prev = null;
-        ListNode curr = head;
-
-        while (curr != null) {
-
-            // Save the next node before changing the pointer.
-            ListNode next = curr.next;
-
-            // Reverse the pointer.
-            curr.next = prev;
-
-            // Move prev forward.
-            prev = curr;
-
-            // Move curr forward.
-            curr = next;
-        }
-
-        return prev;
     }
 }
