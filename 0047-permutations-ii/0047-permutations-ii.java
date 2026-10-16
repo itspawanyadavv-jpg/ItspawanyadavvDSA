@@ -1,48 +1,63 @@
-import java.util.*;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 class Solution {
 
     public List<List<Integer>> permuteUnique(int[] nums) {
-        List<List<Integer>> all = new ArrayList<>();
-        generate(nums, 0, all);
 
-        // Remove duplicate permutations afterward.
-        Set<List<Integer>> unique = new LinkedHashSet<>(all);
+        // Step 1: Put equal numbers next to each other.
+        Arrays.sort(nums);
 
-        return new ArrayList<>(unique);
+        List<List<Integer>> result = new ArrayList<>();
+        List<Integer> current = new ArrayList<>();
+
+        // used[i] tells us whether index i is in current.
+        boolean[] used = new boolean[nums.length];
+
+        backtrack(nums, used, current, result);
+
+        return result;
     }
 
-    private void generate(
+    private void backtrack(
             int[] nums,
-            int index,
+            boolean[] used,
+            List<Integer> current,
             List<List<Integer>> result) {
 
-        // Every position has been fixed.
-        if (index == nums.length) {
-            List<Integer> permutation = new ArrayList<>();
-
-            for (int num : nums) {
-                permutation.add(num);
-            }
-
-            result.add(permutation);
+        // Step 2: A complete permutation has been formed.
+        if (current.size() == nums.length) {
+            result.add(new ArrayList<>(current));
             return;
         }
 
-        // Try every remaining element at this position.
-        for (int i = index; i < nums.length; i++) {
-            swap(nums, index, i);
+        // Step 3: Try each possible next element.
+        for (int i = 0; i < nums.length; i++) {
 
-            generate(nums, index + 1, result);
+            // This index is already in the current permutation.
+            if (used[i]) {
+                continue;
+            }
 
-            // Undo the choice before trying another.
-            swap(nums, index, i);
+            // Skip duplicate choices at the same recursion level.
+            if (i > 0
+                    && nums[i] == nums[i - 1]
+                    && !used[i - 1]) {
+                continue;
+            }
+
+            // Choose the number.
+            used[i] = true;
+            current.add(nums[i]);
+
+            // Fill the next position.
+            backtrack(nums, used, current, result);
+
+            // Undo the choice.
+            current.remove(current.size() - 1);
+            used[i] = false;
         }
-    }
-
-    private void swap(int[] nums, int i, int j) {
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
     }
 }
