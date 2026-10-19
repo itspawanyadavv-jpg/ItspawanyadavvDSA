@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0509-fibonacci-number) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0394-decode-string) |
@@ -574,5 +576,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
