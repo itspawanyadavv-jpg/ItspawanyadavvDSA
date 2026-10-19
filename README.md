@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0152-maximum-product-subarray) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [2906-construct-product-matrix](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2906-construct-product-matrix) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0079-word-search) |
 | [0227-basic-calculator-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0394-decode-string) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0079-word-search) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0404-sum-of-left-leaves) |
@@ -568,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
