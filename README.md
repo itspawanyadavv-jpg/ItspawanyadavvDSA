@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0404-sum-of-left-leaves) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
