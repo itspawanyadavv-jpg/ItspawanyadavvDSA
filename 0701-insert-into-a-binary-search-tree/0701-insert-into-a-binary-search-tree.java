@@ -1,44 +1,23 @@
-import java.util.*;
 
 class Solution {
-
     public TreeNode insertIntoBST(TreeNode root, int val) {
-        List<Integer> values = new ArrayList<>();
 
-        // Collect the existing values.
-        collectValues(root, values);
-
-        // Add the new value and sort.
-        values.add(val);
-        Collections.sort(values);
-
-        // Rebuild a balanced BST.
-        return buildBST(values, 0, values.size() - 1);
-    }
-
-    private void collectValues(TreeNode node, List<Integer> values) {
-        if (node == null) {
-            return;
+        // An empty position is where the new node belongs.
+        if (root == null) {
+            return new TreeNode(val);
         }
 
-        values.add(node.val);
-        collectValues(node.left, values);
-        collectValues(node.right, values);
-    }
-
-    private TreeNode buildBST(
-            List<Integer> values, int left, int right) {
-
-        if (left > right) {
-            return null;
+        // Smaller values belong in the left subtree.
+        if (val < root.val) {
+            root.left = insertIntoBST(root.left, val);
         }
 
-        int mid = left + (right - left) / 2;
-        TreeNode node = new TreeNode(values.get(mid));
+        // Larger values belong in the right subtree.
+        else {
+            root.right = insertIntoBST(root.right, val);
+        }
 
-        node.left = buildBST(values, left, mid - 1);
-        node.right = buildBST(values, mid + 1, right);
-
-        return node;
+        // Preserve and return the current subtree's root.
+        return root;
     }
 }
