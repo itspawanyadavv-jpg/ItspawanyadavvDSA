@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3169-count-days-without-meetings](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3169-count-days-without-meetings) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2059-minimum-operations-to-convert-number](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2059-minimum-operations-to-convert-number) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
