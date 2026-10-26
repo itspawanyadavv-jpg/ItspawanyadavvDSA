@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2059-minimum-operations-to-convert-number](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2059-minimum-operations-to-convert-number) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Merge Sort
