@@ -4,16 +4,20 @@ import java.util.*;
 class Solution {
 
     public long kthLargestLevelSum(TreeNode root, int k) {
+
         Queue<TreeNode> queue = new LinkedList<>();
-        List<Long> levelSums = new ArrayList<>();
+
+        // Min-heap: keeps only the k largest level sums.
+        PriorityQueue<Long> minHeap = new PriorityQueue<>();
 
         queue.offer(root);
+        int levelCount = 0;
 
-        // Process the tree one level at a time.
         while (!queue.isEmpty()) {
             int levelSize = queue.size();
             long levelSum = 0L;
 
+            // Calculate the sum of the current level.
             for (int i = 0; i < levelSize; i++) {
                 TreeNode node = queue.poll();
                 levelSum += node.val;
@@ -27,18 +31,23 @@ class Solution {
                 }
             }
 
-            levelSums.add(levelSum);
+            levelCount++;
+
+            // Keep this level sum among the k largest.
+            minHeap.offer(levelSum);
+
+            // Remove the smallest if we have too many.
+            if (minHeap.size() > k) {
+                minHeap.poll();
+            }
         }
 
-        // Fewer than k levels means no kth largest sum exists.
-        if (levelSums.size() < k) {
+        // Not enough levels to have a kth largest sum.
+        if (levelCount < k) {
             return -1L;
         }
 
-        // Sort level sums in ascending order.
-        Collections.sort(levelSums);
-
-        // kth largest is at index size - k.
-        return levelSums.get(levelSums.size() - k);
+        // The smallest retained sum is the kth largest.
+        return minHeap.peek();
     }
 }
