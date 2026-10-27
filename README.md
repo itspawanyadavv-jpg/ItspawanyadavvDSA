@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0226-invert-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
