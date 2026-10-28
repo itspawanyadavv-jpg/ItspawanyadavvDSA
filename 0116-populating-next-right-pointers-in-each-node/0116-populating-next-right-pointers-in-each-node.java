@@ -1,43 +1,35 @@
-import java.util.LinkedList;
-import java.util.Queue;
-
 class Solution {
+
     public Node connect(Node root) {
+        // An empty tree has nothing to connect.
         if (root == null) {
             return null;
         }
 
-        Queue<Node> queue = new LinkedList<>();
-        queue.offer(root);
+        // Start with the root level.
+        Node leftmost = root;
 
-        while (!queue.isEmpty()) {
-            // Number of nodes in this level.
-            int levelSize = queue.size();
+        // Process one level at a time.
+        while (leftmost.left != null) {
+            Node current = leftmost;
 
-            Node previous = null;
+            // Traverse this level using existing next pointers.
+            while (current != null) {
 
-            for (int i = 0; i < levelSize; i++) {
-                Node current = queue.poll();
+                // Connect the two children of the same parent.
+                current.left.next = current.right;
 
-                // Connect the previous node to the current node.
-                if (previous != null) {
-                    previous.next = current;
+                // Connect children across neighboring parents.
+                if (current.next != null) {
+                    current.right.next = current.next.left;
                 }
 
-                previous = current;
-
-                // Add children for the next level.
-                if (current.left != null) {
-                    queue.offer(current.left);
-                }
-
-                if (current.right != null) {
-                    queue.offer(current.right);
-                }
+                // Move to the next parent on this level.
+                current = current.next;
             }
 
-            // The last node at this level points to null.
-            previous.next = null;
+            // Move down to the next level's leftmost node.
+            leftmost = leftmost.left;
         }
 
         return root;
