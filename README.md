@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1110-delete-nodes-and-return-forest](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1248-count-number-of-nice-subarrays](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1110-delete-nodes-and-return-forest](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1302-deepest-leaves-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1110-delete-nodes-and-return-forest](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1302-deepest-leaves-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -532,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1110-delete-nodes-and-return-forest](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1302-deepest-leaves-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
