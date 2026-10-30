@@ -2,31 +2,33 @@ class Solution {
 
     public TreeNode trimBST(TreeNode root, int low, int high) {
 
-        // Base case.
+        // Base case: empty subtree.
         if (root == null) {
             return null;
         }
 
-        // First trim the left subtree.
-        TreeNode leftSubtree = trimBST(root.left, low, high);
-
-        // Then trim the right subtree.
-        TreeNode rightSubtree = trimBST(root.right, low, high);
-
         // Case 1: Current node is smaller than low.
         if (root.val < low) {
-            return rightSubtree;
+
+            // Discard current node and its left subtree.
+            return trimBST(root.right, low, high);
         }
 
         // Case 2: Current node is greater than high.
         if (root.val > high) {
-            return leftSubtree;
+
+            // Discard current node and its right subtree.
+            return trimBST(root.left, low, high);
         }
 
         // Case 3: Current node is valid.
-        root.left = leftSubtree;
-        root.right = rightSubtree;
+        // Trim and reconnect the left subtree.
+        root.left = trimBST(root.left, low, high);
 
+        // Trim and reconnect the right subtree.
+        root.right = trimBST(root.right, low, high);
+
+        // Return the current node as the subtree root.
         return root;
     }
 }
