@@ -1,36 +1,35 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-    private long sum = 0;
+
+    private int sum = 0;
+
     public TreeNode convertBST(TreeNode root) {
 
-        sum = 0L;
-        reverse(root);
-        return root;
+        // Reset sum for a fresh execution.
+        sum = 0;
 
+        // Start Reverse Inorder Traversal.
+        reverseInorder(root);
+
+        return root;
     }
-    public void reverse(TreeNode root){
-        if(root == null){
+
+    private void reverseInorder(TreeNode root) {
+
+        // Base case.
+        if (root == null) {
             return;
         }
-        reverse(root.right);
-        sum +=root.val;
-        root.val = (int)sum;
-        reverse(root.left);
 
+        // Step 1: Visit right subtree.
+        reverseInorder(root.right);
+
+        // Step 2: Add current original value to sum.
+        sum += root.val;
+
+        // Step 3: Update current node.
+        root.val = sum;
+
+        // Step 4: Visit left subtree.
+        reverseInorder(root.left);
     }
-
 }
