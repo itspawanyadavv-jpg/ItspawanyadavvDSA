@@ -1,44 +1,35 @@
-import java.util.*;
-
 class Solution {
 
     private int count = 0;
 
     public int goodNodes(TreeNode root) {
+
         count = 0;
 
-        List<Integer> path = new ArrayList<>();
-
-        dfs(root, path);
+        dfs(root, Integer.MIN_VALUE);
 
         return count;
     }
 
-    private void dfs(TreeNode node, List<Integer> path) {
+    private void dfs(TreeNode node, int maxSoFar) {
 
+        // Base case: no node exists.
         if (node == null) {
             return;
         }
 
-        // Add current node to the path.
-        path.add(node.val);
-
-        // Find maximum value in the current path.
-        int maxValue = Integer.MIN_VALUE;
-
-        for (int value : path) {
-            maxValue = Math.max(maxValue, value);
-        }
-
-        // Check whether current node is good.
-        if (node.val == maxValue) {
+        // Check whether the current node is good.
+        if (node.val >= maxSoFar) {
             count++;
         }
 
-        dfs(node.left, path);
-        dfs(node.right, path);
+        // Update maximum for the current path.
+        int newMax = Math.max(maxSoFar, node.val);
 
-        // Backtrack: remove current node.
-        path.remove(path.size() - 1);
+        // Explore the left subtree.
+        dfs(node.left, newMax);
+
+        // Explore the right subtree.
+        dfs(node.right, newMax);
     }
 }
