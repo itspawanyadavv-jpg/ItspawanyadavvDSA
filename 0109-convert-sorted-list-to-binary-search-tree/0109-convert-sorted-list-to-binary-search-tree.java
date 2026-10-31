@@ -1,42 +1,51 @@
 
 class Solution {
 
+    // Shared pointer to the current linked-list node
+    private ListNode current;
+
     public TreeNode sortedListToBST(ListNode head) {
 
-        // Step 1: Copy linked list values into an ArrayList
-        List<Integer> values = new ArrayList<>();
+        // Initially, current points to the list's head
+        current = head;
 
-        while (head != null) {
-            values.add(head.val);
-            head = head.next;
+        // Count the total number of nodes
+        int size = 0;
+
+        ListNode temp = head;
+
+        while (temp != null) {
+            size++;
+            temp = temp.next;
         }
 
-        // Step 2: Build BST using array indices
-        return buildBST(values, 0, values.size() - 1);
+        // Construct the balanced BST
+        return buildBST(size);
     }
 
-    private TreeNode buildBST(
-        List<Integer> values,
-        int left,
-        int right
-    ) {
+    private TreeNode buildBST(int size) {
 
-        // Base case: No elements available
-        if (left > right) {
+        // Base case: No nodes available
+        if (size <= 0) {
             return null;
         }
 
-        // Find middle index
-        int mid = left + (right - left) / 2;
+        // Step 1: Construct left subtree
+        int leftSize = size / 2;
 
-        // Create root node
-        TreeNode root = new TreeNode(values.get(mid));
+        TreeNode leftSubtree = buildBST(leftSize);
 
-        // Build left subtree
-        root.left = buildBST(values, left, mid - 1);
+        // Step 2: Current linked-list node becomes root
+        TreeNode root = new TreeNode(current.val);
 
-        // Build right subtree
-        root.right = buildBST(values, mid + 1, right);
+        // Move linked-list pointer forward
+        current = current.next;
+
+        // Step 3: Construct right subtree
+        int rightSize = size - leftSize - 1;
+
+        root.left = leftSubtree;
+        root.right = buildBST(rightSize);
 
         return root;
     }
