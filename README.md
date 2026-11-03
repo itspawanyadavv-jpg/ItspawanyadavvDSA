@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0152-maximum-product-subarray) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0219-contains-duplicate-ii) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0148-sort-list) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0110-balanced-binary-tree) |
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0110-balanced-binary-tree) |
