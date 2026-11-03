@@ -1,53 +1,71 @@
 
 class Solution {
 
+    // Maps each inorder value to its index
+    private Map<Integer, Integer> indexMap;
+
+    // Tracks the next element from postorder
+    private int postorderIndex;
+
     public TreeNode buildTree(int[] inorder, int[] postorder) {
 
+        // Handle empty or invalid input
         if (inorder == null || postorder == null ||
             inorder.length == 0 ||
             inorder.length != postorder.length) {
             return null;
         }
 
-        // Last postorder element is the root
-        int rootValue = postorder[postorder.length - 1];
+        indexMap = new HashMap<>();
+
+        // Store inorder value -> index
+        for (int i = 0; i < inorder.length; i++) {
+            indexMap.put(inorder[i], i);
+        }
+
+        // Start from the last postorder element
+        postorderIndex = postorder.length - 1;
+
+        // Initially, the entire inorder array is our tree
+        return construct(
+            postorder,
+            0,
+            inorder.length - 1
+        );
+    }
+
+    private TreeNode construct(
+        int[] postorder,
+        int inLeft,
+        int inRight
+    ) {
+
+        // No elements in this subtree
+        if (inLeft > inRight) {
+            return null;
+        }
+
+        // Last unused postorder element is the root
+        int rootValue = postorder[postorderIndex--];
 
         TreeNode root = new TreeNode(rootValue);
 
         // Find root position in inorder
-        int rootIndex = 0;
+        int mid = indexMap.get(rootValue);
 
-        for (int i = 0; i < inorder.length; i++) {
-            if (inorder[i] == rootValue) {
-                rootIndex = i;
-                break;
-            }
-        }
+        // Construct RIGHT subtree first
+        root.right = construct(
+            postorder,
+            mid + 1,
+            inRight
+        );
 
-        // Number of nodes in left subtree
-        int leftSize = rootIndex;
-
-        // Divide inorder
-        int[] leftInorder =
-            Arrays.copyOfRange(inorder, 0, rootIndex);
-
-        int[] rightInorder =
-            Arrays.copyOfRange(inorder, rootIndex + 1,
-                               inorder.length);
-
-        // Divide postorder
-        int[] leftPostorder =
-            Arrays.copyOfRange(postorder, 0, leftSize);
-
-        int[] rightPostorder =
-            Arrays.copyOfRange(postorder, leftSize,
-                               postorder.length - 1);
-
-        // IMPORTANT: Construct right subtree first
-        root.right = buildTree(rightInorder, rightPostorder);
-
-        // Then construct left subtree
-        root.left = buildTree(leftInorder, leftPostorder);
+        // Then construct LEFT subtree
+        root.left = construct(
+            postorder,
+            inLeft,
+            mid - 1
+        );
 
         return root;
     }
