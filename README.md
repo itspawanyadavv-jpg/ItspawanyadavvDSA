@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0875-koko-eating-bananas) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0911-online-election](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0911-online-election) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0692-top-k-frequent-words) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0904-fruit-into-baskets) |
 | [0911-online-election](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0911-online-election) |
 | [0930-binary-subarrays-with-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0347-top-k-frequent-elements) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
