@@ -5,58 +5,45 @@ class Solution {
 
         List<Integer> result = new ArrayList<>();
 
+        // Handle empty tree
         if (root == null) {
             return result;
         }
 
-        // Calculate the height of the tree
-        int height = getHeight(root);
+        // Queue for level-order traversal
+        Queue<TreeNode> queue = new LinkedList<>();
 
-        // Find the rightmost node at every level
-        for (int level = 0; level < height; level++) {
+        // Start with the root
+        queue.offer(root);
 
-            Integer rightmost = findRightmost(root, level);
+        // Process all levels
+        while (!queue.isEmpty()) {
 
-            result.add(rightmost);
+            // Number of nodes in the current level
+            int size = queue.size();
+
+            // Process every node at this level
+            for (int i = 0; i < size; i++) {
+
+                TreeNode current = queue.poll();
+
+                // Last node of this level is visible
+                if (i == size - 1) {
+                    result.add(current.val);
+                }
+
+                // Add left child first
+                if (current.left != null) {
+                    queue.offer(current.left);
+                }
+
+                // Add right child second
+                if (current.right != null) {
+                    queue.offer(current.right);
+                }
+            }
         }
 
         return result;
-    }
-
-    private int getHeight(TreeNode root) {
-
-        if (root == null) {
-            return 0;
-        }
-
-        return 1 + Math.max(
-            getHeight(root.left),
-            getHeight(root.right)
-        );
-    }
-
-    private Integer findRightmost(TreeNode root, int level) {
-
-        // No node exists at this position
-        if (root == null) {
-            return null;
-        }
-
-        // Reached the required level
-        if (level == 0) {
-            return root.val;
-        }
-
-        // Search right subtree first
-        Integer rightResult =
-            findRightmost(root.right, level - 1);
-
-        if (rightResult != null) {
-            return rightResult;
-        }
-
-        // If right subtree has no node at this level,
-        // search the left subtree
-        return findRightmost(root.left, level - 1);
     }
 }
