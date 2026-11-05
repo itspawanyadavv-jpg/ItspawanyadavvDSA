@@ -1,62 +1,37 @@
-import java.util.*;
-
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
 class Solution {
+    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
 
-    // Finds the path from root to target
-    boolean findPath(TreeNode root,
-                     TreeNode target,
-                     List<TreeNode> path) {
+        if(root == null){
+            return null;
+        }
+        if(root == p || root == q){
+            return root;
+        }
+        TreeNode left = lowestCommonAncestor(root.left , p , q);
 
-        if (root == null) {
-            return false;
+        TreeNode right = lowestCommonAncestor(root.right , p , q);
+
+        if(left != null && right != null){
+            return root;
         }
 
-        // Add current node to path
-        path.add(root);
-
-        // Target found
-        if (root == target) {
-            return true;
+        if(left != null){
+            return left;
         }
 
-        // Search left and right subtrees
-        if (findPath(root.left, target, path) ||
-            findPath(root.right, target, path)) {
-            return true;
-        }
+        return right;
+        
 
-        // Backtrack if target is not in this subtree
-        path.remove(path.size() - 1);
 
-        return false;
-    }
-
-    public TreeNode lowestCommonAncestor(
-        TreeNode root,
-        TreeNode p,
-        TreeNode q
-    ) {
-
-        List<TreeNode> pathP = new ArrayList<>();
-        List<TreeNode> pathQ = new ArrayList<>();
-
-        // Find both paths
-        findPath(root, p, pathP);
-        findPath(root, q, pathQ);
-
-        TreeNode lca = null;
-
-        // Find the common prefix
-        int i = 0;
-
-        while (i < pathP.size() &&
-               i < pathQ.size() &&
-               pathP.get(i) == pathQ.get(i)) {
-
-            lca = pathP.get(i);
-            i++;
-        }
-
-        return lca;
+        
     }
 }
