@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1110-delete-nodes-and-return-forest) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1110-delete-nodes-and-return-forest) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1110-delete-nodes-and-return-forest) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1110-delete-nodes-and-return-forest) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -655,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -715,14 +720,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0508-most-frequent-subtree-sum) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Lifting
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
