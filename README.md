@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0735-asteroid-collision) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Stack
@@ -408,12 +409,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0069-sqrtx) |
 | [0227-basic-calculator-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0273-integer-to-english-words) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0227-basic-calculator-ii) |
