@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0508-most-frequent-subtree-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0508-most-frequent-subtree-sum) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0347-top-k-frequent-elements) |
 | [0475-heaters](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0475-heaters) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0402-remove-k-digits) |
