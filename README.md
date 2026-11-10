@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0069-sqrtx) |
 | [0227-basic-calculator-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0227-basic-calculator-ii) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0049-group-anagrams) |
