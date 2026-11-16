@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1695-maximum-erasure-value) |
+| [2405-optimal-partition-of-string](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2405-optimal-partition-of-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3026-maximum-good-subarray-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3026-maximum-good-subarray-sum) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2126-destroying-asteroids](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2126-destroying-asteroids) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2405-optimal-partition-of-string](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2405-optimal-partition-of-string) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1544-make-the-string-great) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1871-jump-game-vii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1871-jump-game-vii) |
+| [2405-optimal-partition-of-string](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2405-optimal-partition-of-string) |
 ## Trie
 |  |
 | ------- |
