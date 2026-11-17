@@ -1,29 +1,36 @@
 
+import java.util.Arrays;
+
 class Solution {
 
     public int partitionString(String s) {
 
-        // Tracks characters in the current substring.
-        boolean[] seen = new boolean[26];
-
-        // At least one partition is needed for non-empty input.
+        // A non-empty string requires at least one partition.
         int partitions = 1;
 
+        // Tracks characters in the current partition.
+        boolean[] seen = new boolean[26];
+
+        // Traverse the string from left to right.
         for (int i = 0; i < s.length(); i++) {
 
-            // Convert character into an array index.
-            int index = s.charAt(i) - 'a';
+            char ch = s.charAt(i);
 
-            // Duplicate found: start a new partition.
+            // Convert character into an array index.
+            int index = ch - 'a';
+
+            // If the character already exists,
+            // start a new partition.
             if (seen[index]) {
 
                 partitions++;
 
                 // Clear the previous partition's characters.
-                seen = new boolean[26];
+                Arrays.fill(seen, false);
             }
 
-            // Include the current character.
+            // Include the current character
+            // in the current partition.
             seen[index] = true;
         }
 
