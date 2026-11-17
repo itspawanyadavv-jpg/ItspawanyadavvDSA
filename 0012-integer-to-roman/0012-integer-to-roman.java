@@ -3,34 +3,34 @@ class Solution {
 
     public String intToRoman(int num) {
 
-        String[] thousands = {
-            "", "M", "MM", "MMM"
+        // Roman values in descending order.
+        int[] values = {
+            1000, 900, 500, 400,
+            100, 90, 50, 40,
+            10, 9, 5, 4, 1
         };
 
-        String[] hundreds = {
-            "", "C", "CC", "CCC", "CD",
-            "D", "DC", "DCC", "DCCC", "CM"
-        };
-
-        String[] tens = {
-            "", "X", "XX", "XXX", "XL",
-            "L", "LX", "LXX", "LXXX", "XC"
-        };
-
-        String[] ones = {
-            "", "I", "II", "III", "IV",
-            "V", "VI", "VII", "VIII", "IX"
+        // Corresponding Roman symbols.
+        String[] symbols = {
+            "M", "CM", "D", "CD",
+            "C", "XC", "L", "XL",
+            "X", "IX", "V", "IV", "I"
         };
 
         StringBuilder result = new StringBuilder();
 
-        result.append(thousands[num / 1000]);
+        // Process every Roman denomination.
+        for (int i = 0; i < values.length; i++) {
 
-        result.append(hundreds[(num % 1000) / 100]);
+            // Use the current denomination as many
+            // times as possible.
+            while (num >= values[i]) {
 
-        result.append(tens[(num % 100) / 10]);
+                result.append(symbols[i]);
 
-        result.append(ones[num % 10]);
+                num -= values[i];
+            }
+        }
 
         return result.toString();
     }
