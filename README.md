@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0990-satisfiability-of-equality-equations](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1004-max-consecutive-ones-iii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1110-delete-nodes-and-return-forest](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1110-delete-nodes-and-return-forest) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0692-top-k-frequent-words) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0988-smallest-string-starting-from-leaf) |
+| [0990-satisfiability-of-equality-equations](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -775,11 +777,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0547-number-of-provinces) |
+| [0990-satisfiability-of-equality-equations](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0990-satisfiability-of-equality-equations) |
 ## Graph Theory
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0547-number-of-provinces) |
+| [0990-satisfiability-of-equality-equations](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0990-satisfiability-of-equality-equations) |
 ## Topological Sort
 |  |
 | ------- |
