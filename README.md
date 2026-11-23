@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2641-cousins-in-binary-tree-ii) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2059-minimum-operations-to-convert-number](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2059-minimum-operations-to-convert-number) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -778,12 +780,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0547-number-of-provinces) |
 | [0990-satisfiability-of-equality-equations](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0547-number-of-provinces) |
 | [0990-satisfiability-of-equality-equations](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/itspawanyadavv-jpg/ItspawanyadavvDSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
 | ------- |
