@@ -1,58 +1,82 @@
-import java.util.*;
 
 class Solution {
 
     public int makeConnected(int n, int[][] connections) {
 
-        // Not enough cables to connect n computers.
+        // Step 1: Check whether enough cables exist.
         if (connections.length < n - 1) {
             return -1;
         }
 
-        // Build adjacency list.
-        List<Integer>[] graph = new ArrayList[n];
+        // Step 2: Initialize DSU.
+        DSU dsu = new DSU(n);
 
-        for (int i = 0; i < n; i++) {
-            graph[i] = new ArrayList<>();
-        }
-
+        // Step 3: Process every connection.
         for (int[] connection : connections) {
+
             int u = connection[0];
             int v = connection[1];
 
-            graph[u].add(v);
-            graph[v].add(u);
+            dsu.union(u, v);
         }
 
-        boolean[] visited = new boolean[n];
+        // Step 4: Connect all remaining components.
+        return dsu.components - 1;
+    }
 
-        int components = 0;
+    static class DSU {
 
-        // Start DFS from every unvisited computer.
-        for (int i = 0; i < n; i++) {
+        int[] parent;
+        int[] size;
+        int components;
 
-            if (!visited[i]) {
-                components++;
+        DSU(int n) {
 
-                Stack<Integer> stack = new Stack<>();
-                stack.push(i);
-                visited[i] = true;
+            parent = new int[n];
+            size = new int[n];
 
-                while (!stack.isEmpty()) {
+            components = n;
 
-                    int node = stack.pop();
-
-                    for (int neighbor : graph[node]) {
-
-                        if (!visited[neighbor]) {
-                            visited[neighbor] = true;
-                            stack.push(neighbor);
-                        }
-                    }
-                }
+            for (int i = 0; i < n; i++) {
+                parent[i] = i;
+                size[i] = 1;
             }
         }
 
-        return components - 1;
+        // Find the representative of a component.
+        int find(int x) {
+
+            if (parent[x] != x) {
+                parent[x] = find(parent[x]);
+            }
+
+            return parent[x];
+        }
+
+        // Merge two components.
+        void union(int a, int b) {
+
+            int rootA = find(a);
+            int rootB = find(b);
+
+            // Already in the same component.
+            if (rootA == rootB) {
+                return;
+            }
+
+            // Attach the smaller tree under the larger tree.
+            if (size[rootA] < size[rootB]) {
+                int temp = rootA;
+                rootA = rootB;
+                rootB = temp;
+            }
+
+            parent[rootB] = rootA;
+
+            size[rootA] += size[rootB];
+
+            // Two components have become one.
+            components--;
+        }
     }
 }
